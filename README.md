@@ -67,7 +67,7 @@ To create a Conda environment for this project on an Apple M1 device, follow the
 2. Clone the project repository:
 
    ```bash
-   git clone https://github.com/NurgulKaryagis/sentiment-analysis-on-amazon-reviews.git
+   git clone https://github.com/NurgulKaryagis/sentiment-analysis-cli.git
    cd sentiment-analysis-cli
    ```
 
@@ -97,7 +97,7 @@ This section provides step-by-step instructions for manually setting up the envi
 2. Clone the project repository:
 
    ```bash
-   git clone https://github.com/NurgulKaryagis/sentiment-analysis-on-amazon-reviews.git
+   git clone https://github.com/NurgulKaryagis/sentiment-analysis-cli.git
    cd sentiment-analysis-cli
    ```
 
