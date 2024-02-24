@@ -9,8 +9,6 @@ The dataset used for this project is the "Amazon Reviews" dataset, available on 
 ### Note on the Provided Data Set
 The accuracy and performance metrics highlighted above were achieved by training our sentiment analysis model on the full data set. Due to GitHub's file size limitations, we have included a smaller, sample subset of the data in this repository for quick testing and demonstration purposes.
 
-To replicate the reported performance metrics and fully leverage the model's capabilities, it is recommended to train the model using the complete data set. Instructions for accessing and preparing the full data set for training are provided in the data/README.md file.
-
 This approach ensures that while users can quickly experiment with the model using the provided sample data, they are also informed about the steps to achieve optimal results with the full data set.
 
 ## Features
